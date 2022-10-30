@@ -1,0 +1,18 @@
+{
+    "name": "devlop/dbal-smallint",
+    "description": "Custom DBAL Type for SmallInt",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Johan Rosenson",
+            "email": "johan@devlop.se"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Devlop\\DBAL\\Types\\": "src/"
+        }
+    }
+}
